@@ -1,6 +1,6 @@
 {
   "name": "boing6000/plugin-kbcore",
-  "version": "2.00",
+  "minimum-stability": "stable",
   "autoload": {
     "psr-4": {"Plugin\\KbCore\\": "/"}
   },
